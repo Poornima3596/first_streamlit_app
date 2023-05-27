@@ -1,3 +1,3 @@
 import streamlit
 streamlit.title("hello")
-streamlit.body("breakfast options")
+streamlit.text("breakfast options")
