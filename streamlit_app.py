@@ -1,4 +1,5 @@
 import streamlit
+import pandas
 streamlit.title("hello")
 streamlit.subheader("breakfast options")
 streamlit.text("tea")
