@@ -1,3 +1,5 @@
 import streamlit
 streamlit.title("hello")
-streamlit.text("breakfast options")
+streamlit.subheader("breakfast options")
+streamlit.text("tea")
+streamlit.text("coffee")
